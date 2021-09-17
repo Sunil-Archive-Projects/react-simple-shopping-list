@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-simple-shopping-list/static/css/main.d628c253.chunk.css",
+    "main.js": "/react-simple-shopping-list/static/js/main.90811671.chunk.js",
+    "main.js.map": "/react-simple-shopping-list/static/js/main.90811671.chunk.js.map",
+    "runtime-main.js": "/react-simple-shopping-list/static/js/runtime-main.d8f8c0b3.js",
+    "runtime-main.js.map": "/react-simple-shopping-list/static/js/runtime-main.d8f8c0b3.js.map",
+    "static/js/2.b143968f.chunk.js": "/react-simple-shopping-list/static/js/2.b143968f.chunk.js",
+    "static/js/2.b143968f.chunk.js.map": "/react-simple-shopping-list/static/js/2.b143968f.chunk.js.map",
+    "static/js/3.b13a9599.chunk.js": "/react-simple-shopping-list/static/js/3.b13a9599.chunk.js",
+    "static/js/3.b13a9599.chunk.js.map": "/react-simple-shopping-list/static/js/3.b13a9599.chunk.js.map",
+    "index.html": "/react-simple-shopping-list/index.html",
+    "static/css/main.d628c253.chunk.css.map": "/react-simple-shopping-list/static/css/main.d628c253.chunk.css.map",
+    "static/js/2.b143968f.chunk.js.LICENSE.txt": "/react-simple-shopping-list/static/js/2.b143968f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8f8c0b3.js",
+    "static/js/2.b143968f.chunk.js",
+    "static/css/main.d628c253.chunk.css",
+    "static/js/main.90811671.chunk.js"
+  ]
+}
